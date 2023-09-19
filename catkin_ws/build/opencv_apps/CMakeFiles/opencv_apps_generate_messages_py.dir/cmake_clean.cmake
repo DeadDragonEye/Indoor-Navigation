@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/opencv_apps_generate_messages_py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_LineArray.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Moment.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_MomentArray.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_FlowArrayStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Rect.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_FaceArray.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_LineArrayStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RectArray.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Flow.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RectArrayStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_FaceArrayStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Point2DArray.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_CircleArrayStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Line.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_FlowArray.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_CircleArray.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RotatedRectStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_ContourArray.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Contour.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RotatedRectArrayStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Point2DStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_FlowStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RotatedRectArray.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Face.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Point2DArrayStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Size.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_ContourArrayStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Point2D.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_Circle.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_RotatedRect.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/_MomentArrayStamped.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/srv/_FaceRecognitionTrain.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/msg/__init__.py"
+  "/home/rikirobot/catkin_ws/devel/lib/python2.7/dist-packages/opencv_apps/srv/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/opencv_apps_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
